@@ -1,0 +1,21 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "beat.blank_mod",
+	"name": "Blank mod",
+	"version": "v1.0.0",
+	"developer": "Beat",
+	"description": "Has only a setting with a file select",
+	"settings": {
+		"file-select-setting": {
+			"type": "file",
+			"name": "File Test",
+			"default": "Select a file"
+		}
+	}
+}
